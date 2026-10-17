@@ -239,4 +239,4 @@ This repository serves as the official landing page for Eudora. The software is 
 **Get the most recent version of Eudora today!**
 
 ---
-**Last updated:** 2026-10-17 12:48:36 UTC
+**Last updated:** 2026-10-17 16:13:28 UTC
